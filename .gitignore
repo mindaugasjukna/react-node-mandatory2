@@ -1,0 +1,4 @@
+/frontend/node_modules
+/backend/config/db_config.js
+/backend/config/mail_config.js
+/backend/node_modules
